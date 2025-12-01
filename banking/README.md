@@ -20,15 +20,14 @@ This project simulates core banking features like account creation, login, cash 
 
 ## 🧱 Project Structure (Packages + Classes)
 
-banking/
-├─ model/
-│ └─ Account.java # Customer account data
-├─ service/
-│ └─ BankService.java # Core banking logic
-└─ Main.java # User Interface (Console Menu)
+src/
+ └─ banking/
+     ├─ model/
+     │    └─ Account.java
+     ├─ service/
+     │    └─ BankService.java
+     └─ Main.java
 
-pgsql
-Copy code
 
 ---
 
