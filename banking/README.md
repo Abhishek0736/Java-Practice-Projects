@@ -20,8 +20,7 @@ This project simulates core banking features like account creation, login, cash 
 
 ## 🧱 Project Structure (Packages + Classes)
 
-src/
- └─ banking/
+banking/
      ├─ model/
      │    └─ Account.java
      ├─ service/
